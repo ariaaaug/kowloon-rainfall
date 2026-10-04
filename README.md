@@ -22,5 +22,5 @@ The bar chart shows the daily distribution of rainfall across the entire year. T
 ```bash
 uv run plot.py
 ---
-*Note: Cleaned up and verified for final submission.*
+
 

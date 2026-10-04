@@ -1,8 +1,7 @@
 ## Tools Used
 - **AI Assistant**: Used to help scaffold the script logic for parsing Open-Meteo JSON structure and styling the Matplotlib bar chart layout.
 ## One Thing Kept
-- **The data caching mechanism in
-'fetch.py **: Keeping the raw JSON file locally
+- **The data caching mechanism in 'fetch.py'**: Keeping the raw JSON file locally in `data/` allowed the script to run seamlessly offline without re-fetching from the API every time.
 in "datal
 allowed the script to
 run seamlessly offline without re-fetching from the API every time.
